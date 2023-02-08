@@ -1,0 +1,15 @@
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/bin/Debug/net7.0/SimpleFTP.Server
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/bin/Debug/net7.0/SimpleFTP.Server.deps.json
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/bin/Debug/net7.0/SimpleFTP.Server.runtimeconfig.json
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/bin/Debug/net7.0/SimpleFTP.Server.dll
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/bin/Debug/net7.0/SimpleFTP.Server.pdb
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.csproj.AssemblyReference.cache
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.AssemblyInfoInputs.cache
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.AssemblyInfo.cs
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.csproj.CoreCompileInputs.cache
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.dll
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/refint/SimpleFTP.Server.dll
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.pdb
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/SimpleFTP.Server.genruntimeconfig.cache
+/Users/sebastianbarry/Desktop/SimpleFTP/SimpleFTP.Server/obj/Debug/net7.0/ref/SimpleFTP.Server.dll

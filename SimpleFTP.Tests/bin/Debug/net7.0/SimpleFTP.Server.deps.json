@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SimpleFTP.Server/1.0.0": {
+        "runtime": {
+          "SimpleFTP.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleFTP.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
